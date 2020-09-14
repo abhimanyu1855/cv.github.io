@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" type="text/css" href="csss/ab.css">
+	<title>CV</title>
+</head>
+<body>
+	<div class="top">
+		<h1><u>ABHIMANYU</u></h1>
+		<p>Final Year, Electronics and Communication Engineering</p>
+		<p>National Institute of Technology,Hamirpur</p>
+		<p>+91-82191-94897, <a href="mailto:abhimanyu1855@gmail.com">abhimanyu1855@gmail.com</a></p>
+	</div>
+	<hr>
+<div class="obj">
+	<h3><u><span id="ts">OBJECTIVE:-</span></u></h3>
+	<p>My main aim is to associate with vibrant organization, to fully utilize my knowledge, skills and contribute to overall growth of organization and my professional career. I am a web development enthusiast intends to work with esteemed organisation to diliver high quality work.</p>
+</div>
+<h3><u><span id="ts">ACADEMIC QUALIFICATIONS:-</span></u></h3>
+<table>
+                <tr id="heading">
+                    <td>Qualification</td>
+                    <td>Institution</td>
+                    <td>Year</td>
+                    <td>Percentage/CGPI</td>
+                </tr>
+                <tr>
+                    <td>ECE(DD)</td>
+                    <td>NIT Hamirpur</td>
+                    <td>2017-Present</td>
+                    <td>7.71 CGPI</td>
+                </tr>
+                <tr>
+                    <td>Class 12(CBSE)</td>
+                    <td>JNV Una</td>
+                    <td>2017</td>
+                    <td>91.4%</td>
+                </tr>
+                <tr>
+                    <td>Class 10(CBSE)</td>
+                    <td>JNV Una</td>
+                    <td>2015</td>
+                    <td>9.1 CGPI</td>
+                </tr>
+</table>
+<h3><u><span id="ts">TECHNICAL SKILLS:-</span></u></h3>
+<div class="con">
+<ul>
+	<li><span id="st">Programming Language</span>:-&nbsp    C++, C, Python, HTML, CSS</li>
+	<li><span id="st">Prototyping Platform</span>:-&nbsp&nbsp&nbsp&nbsp&nbsp Arduino (Atmega 328), Raspberry Pi</li>
+	<li><span id="st">Technical Software</span>:- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp PSpice, Keil uVision, Electric VLSI, LT Spice, MATLAB</li>
+	<li><span id="st">Special Software Skills</span>:-&nbsp&nbsp&nbsp Latex (Document Presentation), Prezi (Interactive Presentations)</li>
+	<li><span id="st">General Bussiness Skills</span>:-&nbsp  Dynamic Speaker, Efficient Management, Team Player	</li>
+</ul>
+</div>
+<h3><u><span id="ts">PROJECTS:-</span></u></h3>
+<div class="con">
+<ol>
+	<li><span id="st">BULLET TRAJECTORY:-</span>&nbsp&nbspSimulations to find the range of rifle using MATLAB and to determine whether the target is achieved or not while firing from a distance at a particular angle. </li><br>
+	<li><span id="st">VISON BASED TRAFFIC SYSTEM WITH EMERGENCY OVERRIDE:-</span>&nbsp&nbspA smart system used to manage traffic density with use of OpenCV library. Vehicles are detected by this system through images and count the vehicles in respective lanes and thus density is controlled by processing in raspberry pi.</li><br>
+	<li><span id="st">AUTOMATE SURVEILLANCE:- </span>&nbsp&nbspIt involves video analytics applications, such as identifying objects carried by people, such as a gun, a    handbag, or a knife, or being able to quickly find people and vehicles with similar appearances across multiple cameras.</li>
+</ol>
+</div>
+<h3><u><span id="ts">POSITION OF RESPONSIBILITIES:-</span></u></h3>
+<div class="con">
+	<ul>
+		<li><span class="st">Co-ordinator, Vibhav:-</span>The departmental team of ECE department, representing in NIMBUS (techfest of NIT Hamirpur)</li>
+		<li><span class="st">Cadet, National Cadet Corps</span>Developing sense of discipline, unity and punctuality in our day to day lives.</li>
+		<li><span class="st">Coordinator, Discipline Club</span>Helps the core team to maintain the discipline in various cultural events organized by clubs in the campus.</li>
+	</ul>
+</div>
+<h3><u><span id="ts">ACHIEVEMENTS:-</span></u></h3>
+<div class="con">
+<ul>
+	<li>Won silver medal in Health and Hygiene exam during NCC Camp (DNTC-1)</li>
+	<li>House Captain in class 12 at JNV Pekhubela, Una (H.P.)</li>
+	<li>Runner up in inter-branch Basketball tournament in NIT Hamirpur.</li>
+	<li>Represented social science model in National Science Congress in class 10.</li>
+</ul>
+</div>
+</body>
+</html>
